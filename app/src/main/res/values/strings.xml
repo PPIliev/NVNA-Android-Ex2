@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity Buttons</string>
+    <string name="PickaColor">Pick a Color</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="pink">pink</string>
+    <string name="black">black</string>
+    <string name="Submit">Submit</string>
+    <string name="Activity2">Activity2</string>
+</resources>
